@@ -1,2 +1,0 @@
-# Group-SIRS
-Group act
